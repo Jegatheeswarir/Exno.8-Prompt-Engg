@@ -172,7 +172,3 @@ Prompt Parser → Audio Model Interface → MP3/WAV Output Handler
 ## Result
 
 The exploration of prompting techniques for audio generation was successfully carried out. Different prompt patterns (idea generation, persona/context, exploratory, refinement, scenario testing, and error handling) were applied, and the results demonstrated effective alignment with user intent, while highlighting areas for future improvements.
-
----
-
-Would you like me to also **add a flowchart/system diagram** for the *Prototype Outline* section so it looks more complete in a lab record format?
