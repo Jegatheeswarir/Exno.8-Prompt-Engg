@@ -1,8 +1,8 @@
 ## Exno.8 – Prompt Engineering
-
-**Nmae: JEGATHEESWARI R
-**Register No.:** 212223230092
-
+```
+Nmae: JEGATHEESWARI R
+Register No.: 212223230092
+```
 ## Aim
 
 To perform a structured exploration of prompting techniques that enable generation and manipulation of audio content (e.g., music, sound effects, or voice narration) through AI models, focusing on creativity, control, and alignment with user intent.
